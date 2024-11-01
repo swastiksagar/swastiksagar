@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=swastiksagar&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=swastiksagar&icon=8&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=swastiksagar&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
