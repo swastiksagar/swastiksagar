@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎴 About Me:
 🦄 Hi, I'm Swastik Sagar<br>🌋 As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. <br>     Currently, I'm pursuing my BTech in Computer Science and Engineering at Techno International Batanagar, Kolkata.
 
 
