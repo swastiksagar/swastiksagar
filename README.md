@@ -3,6 +3,7 @@
 </div>
 
 ###
+
 <div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
 
 ## Tech Stack
