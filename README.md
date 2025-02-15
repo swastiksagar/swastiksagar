@@ -32,6 +32,12 @@
 </a>  
 </div>  
 
-## Github Stats  
+## Star History
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksagar&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://star-history.com/#https:/&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=https:/&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=https:/&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=https:/&type=Date" />
+ </picture>
+</a>
