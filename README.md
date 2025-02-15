@@ -5,12 +5,12 @@
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-## Recent Activity
+# Recent Activity
 
 - Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-02-15.
 - Created a new repository [swastiksagar](https://github.com/swastiksagar/swastiksagar) on 2024-10-23.
 
-## Connect with me  
+# Connect with me  
 <div align="center">
 <a href="https://github.com/swastiksagar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,6 +32,6 @@
 </a>  
 </div>  
 
-## Github Stats  
+# Github Stats  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksagar&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
