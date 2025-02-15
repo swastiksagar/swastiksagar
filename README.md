@@ -13,4 +13,4 @@
 
 ## Connect with Me
 
-["instagram"]:("https://instagram.com/swastiksagar")
+[Instagram]("https://instagram.com/swastiksagar")
