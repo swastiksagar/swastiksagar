@@ -32,7 +32,6 @@
 </a>  
 </div>  
 
-## Star History
 
 <a href="https://star-history.com/#https:/&Date">
  <picture>
