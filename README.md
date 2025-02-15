@@ -1,5 +1,8 @@
-<h2 align="center">Hi, I'm Swastik Sagar</h2>
 <div align="center">
+  <img height="120" src="https://i.postimg.cc/Ss3QfKFV/Hi-I-m-Swastik-Sagar.gif"  />
+</div>
+
+###
 <p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p>
 
 ## Tech Stack
