@@ -1,7 +1,8 @@
 <div align="center">
-  <img height="100" src="https://i.postimg.cc/m2mwTcMt/Hi-I-m-Swastik-Sagar-1.gif"  />
+  <img height="100" src="https://i.postimg.cc/gjJXYHfJ/Hi-I-m-Swastik-Sagar-3.gif"  />
 </div>
 
+###
 ###
 
 <div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
