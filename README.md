@@ -34,7 +34,5 @@
 </div>  
 
 ## Github Stats  
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=swastiksagar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksagar&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
