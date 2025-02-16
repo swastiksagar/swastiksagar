@@ -3,12 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Swastik+Sagar+)](https://git.io/typing-svg)
 
 </div>
+
 ###
+
 <div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
 
 ### Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)
 ### Recent Activity
 
 - Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-02-15.
@@ -16,23 +17,23 @@
 
 ### Connect with me  
 <div align="center">
-<a href="https://github.com/swastiksagar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/swastiksagar" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg &style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/swastiksagarr" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://twitter.com/swastiksagarr" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg &style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/swastiksagar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/swastiksagar" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg ?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/swastiksagarr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.discord.com/swastiksagar" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg ?&style=for-the-badge&logo=dsicord&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/swastiksagar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/swastiksagar" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg ?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/swastiksagars" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<a href="mailto:swastiksagar06@gmail.com" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg ?&style=for-the-badge&logo=gmail&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
