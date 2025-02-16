@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Swastik+Sagar+)](https://git.io/typing-svg)
-
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=30&pause=500&color=0797F7&center=true&vCenter=true&random=true&width=435&lines=Hi+I'm+Swastik+Sagar+%F0%9F%91%8B)
 </div>
 
 ###
