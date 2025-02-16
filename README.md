@@ -12,7 +12,7 @@
 ![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) 
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) 
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) 
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 </div>
 
 <div align="center"> <h2>Recent Activity</h2></div>
