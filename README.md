@@ -40,5 +40,5 @@
 <div align="center"> <h2>Widgetbox</h2></div>
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=swastiksagar&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=swastiksagar&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 </div>
