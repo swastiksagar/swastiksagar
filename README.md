@@ -1,7 +1,8 @@
 <div align="center">
-  <img height="120" src="https://i.postimg.cc/Gpyr07zK/Your-paragraph-text.gif"  />
-</div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Swastik+Sagar+)](https://git.io/typing-svg)
+
+</div>
 ###
 <div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
 
