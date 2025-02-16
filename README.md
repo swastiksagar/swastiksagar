@@ -7,7 +7,8 @@
 <div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
 
 ### Tech Stack
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+
 ### Recent Activity
 
 - Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-02-15.
