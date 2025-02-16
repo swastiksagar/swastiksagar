@@ -18,11 +18,10 @@
 ### Connect with me  
 <div align="center">
 <a href="https://github.com/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg &style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg ?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/swastiksagarr" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg &style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg ?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 2px;" a/>
 <a href="https://linkedin.com/in/swastiksagar" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg ?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
