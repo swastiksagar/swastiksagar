@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/swastiksagar" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg ?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.discord.com/swastiksagar" target="blank">
+<a href="https://www.discord.com/#swastiksagar0" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg ?&style=for-the-badge&logo=dsicord&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/swastiksagar" target="blank">
