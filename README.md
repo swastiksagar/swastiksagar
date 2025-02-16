@@ -37,4 +37,7 @@
 <a href="mailto:swastiksagar06@gmail.com" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg /></a>
 </div>  
+<div align="center">
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=swastiksagar&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+</div>
