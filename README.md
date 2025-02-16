@@ -9,7 +9,11 @@
 <div align="center"> <h2>Tech Stack</h2></div>
 <div align="center">
 
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) 
+![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) 
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) 
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
 </div>
 
 <div align="center"> <h2>Recent Activity</h2></div>
@@ -21,21 +25,16 @@
 <div align="center"> <h2>Connect with Me</h2></div>  
 <div align="center">
 <a href="https://github.com/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg ?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg /></a>
 <a href="https://twitter.com/swastiksagarr" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg ?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 2px;" a/>
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg /></a>
 <a href="https://linkedin.com/in/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg ?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg /></a>
 <a href="https://www.discord.com/#swastiksagar0" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg ?&style=for-the-badge&logo=discord&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg /></a>
 <a href="https://instagram.com/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg ?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg /></a>
 <a href="mailto:swastiksagar06@gmail.com" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg ?&style=for-the-badge&logo=gmail&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg /></a>
 </div>  
 
