@@ -1,8 +1,7 @@
 <div align="center">
 
-![render](https://capsule-render.vercel.app/api?type=waving&height=300&text=Swastik%20Sagar&textBg=false&reversal=false&section=header&fontColor=FFFFFF)
+![render](https://capsule-render.vercel.app/api?type=waving&height=200&text=Swastik%20Sagar&textBg=false&reversal=false&section=header&fontColor=FFFFFF)
 </div>
-
 <div align="center"><h2>About Me</h2></div>
 <div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
 
