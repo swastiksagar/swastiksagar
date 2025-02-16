@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=30&pause=500&color=0797F7&center=true&vCenter=true&random=true&width=435&lines=Hi+I'm+Swastik+Sagar+%F0%9F%91%8B)
+![render](https://capsule-render.vercel.app/api?type=waving&height=300&text=Swastik%20Sagar&textBg=false&reversal=false&section=header&fontColor=FFFFFF)
 </div>
 
 <div align="center"><h2>About Me</h2></div>
