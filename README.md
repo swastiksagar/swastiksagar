@@ -18,8 +18,8 @@
 <div align="center"> <h2>Recent Activity</h2></div>
 <div align="center"
   
-- Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-02-15.
-- Created a new repository [swastiksagar](https://github.com/swastiksagar/swastiksagar) on 2024-10-23.
+- Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-04-04.
+- Created a new repository [swastiksagar](https://github.com/swastiksagar/gifswithpython) on 2024-04-21.
 </div>
 <div align="center"> <h2>Connect with Me</h2></div>  
 <div align="center">
