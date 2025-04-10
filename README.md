@@ -17,7 +17,8 @@
 
 <div align="center"> <h2>Recent Activity</h2></div>
 <div align="center"
-  
+
+- Created a new repository [sfirewall](https://github.com/swastiksagar/sfirewall) on 2025-04-11.
 - Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-04-04.
 - Created a new repository [gifswithpython](https://github.com/swastiksagar/gifswithpython) on 2024-04-21.
 </div>
