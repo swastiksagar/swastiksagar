@@ -13,6 +13,12 @@
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) 
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) 
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![PyCharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)
+![VsCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![WebStorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg)
+![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
+![MongoDb](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
 </div>
 
 <div align="center"> <h2>Recent Activity</h2></div>
