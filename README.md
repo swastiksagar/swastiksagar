@@ -19,6 +19,8 @@
 ![WebStorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg)
 ![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
 ![MongoDb](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+![Kali](https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg)
+![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
 </div>
 
 <div align="center"> <h2>Recent Activity</h2></div>
@@ -26,7 +28,6 @@
 
 - Created a new repository [sfirewall](https://github.com/swastiksagar/sfirewall) on 2025-04-11.
 - Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-04-04.
-- Created a new repository [gifswithpython](https://github.com/swastiksagar/gifswithpython) on 2024-04-21.
 </div>
 <div align="center"> <h2>Connect with Me</h2></div>  
 <div align="center">
