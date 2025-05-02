@@ -50,5 +50,3 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=swastiksagar&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
-<div align="center"><h2>Dev Card</h2></div>
-<div align="center"><a href="https://app.daily.dev/swastiksagar"><img src="https://api.daily.dev/devcards/v2/m4PzltzD05vDI84A4l51B.png?r=co6&type=wide" width="400" alt="Swastik Sagar's Dev Card"/></a></div>
