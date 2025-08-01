@@ -43,6 +43,10 @@
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg /></a>
 <a href="mailto:swastiksagar06@gmail.com" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg /></a>
+<a
+href="swastiksagar.live" target="blank">
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg />
+</a>
 </div>  
 <div align="center"> <h2>Statistics</h2></div>
 <div align="center">
