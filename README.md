@@ -4,29 +4,7 @@
 
 </div>
 
-<div align="center">
 
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg) 
-![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) 
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) 
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-![PyCharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)
-![VsCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
-![WebStorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg)
-![Supabase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg)
-![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
-![MongoDb](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-![Kali](https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg)
-![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
-![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
-![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
-![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
-![Tailos](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg)
-
-</div>
 
 <div align="center"
   
@@ -35,34 +13,9 @@
 </div>
 
 <div align="center">
-
-<a href="https://github.com/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg /></a>
-<a href="https://twitter.com/swastiksagars" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg /></a>
-<a href="https://linkedin.com/in/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg /></a>
-<a href="https://www.discord.com/#swastiksagar0" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg /></a>
-<a href="https://instagram.com/swastiksagar" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg /></a>
-<a href="mailto:swastiksagar06@gmail.com" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg /></a>
-<a href="https://swastiksagar.live" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg /></a>
-<a href="mailto:swastik.sagar@outlook.com" target="blank">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg /></a>
-
-</div>  
-
-<div align="center">
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=swastiksagar&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
-</div>
-
-<div align="center">
   
 ![Penguin Streak](https://coolreadme.xyz/api/penguin-card?user=swastiksagar&accent=white&breed=adelie)
 
 </div>
+
 
