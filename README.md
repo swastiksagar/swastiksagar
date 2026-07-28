@@ -1,10 +1,7 @@
 <div align="center">
 
-![render](https://capsule-render.vercel.app/api?type=waving&height=300&text=Swastik%20Sagar&textBg=false&reversal=false&section=header&fontColor=FFFFFF)
-</div>
-<div align="center"><h2>About Me</h2></div>
-<div align="center"><p>As a passionate Cyber Security enthusiast, I'm driven to make a difference in the digital world. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Techno International Batanagar, Kolkata.</p></div>
-
+![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=swastiksagar&theme=dark&accent=%black&title=Swastik%20Sagar&subtitle=from%20SOC%20world.)
+  
 <div align="center"> <h2>Tech Stack</h2></div>
 <div align="center">
 
@@ -23,12 +20,11 @@
 ![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
 </div>
 
-<div align="center"> <h2>Recent Activity</h2></div>
+<div align="center"> <h2>Projects</h2></div>
 <div align="center"
   
-⦁ Created a new repository [swastiksagar.live](https://github.com/swastiksagar/swastiksagar.live) on 2025-08-04.<br>
-⦁ Created a new repository [sfirewall](https://github.com/swastiksagar/sfirewall) on 2025-04-11.<br>
-⦁ Updated the project [sblock](https://github.com/swastiksagar/sblock) on 2025-04-04.<br>
+![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=swastiksagar&theme=dark&accent=%2360A5FA&projects=Wazuh%7CSIEM%20HOMELAB%7CTypeScript%7C142%7Chttps%3A%2F%2Fgithub.com%2Fswastiksagar%2Fwazuhlabproject%3B%3BSplunk%7CSIEM%20HOMELAB%7CTypeScript%7C89%7Chttps%3A%2F%2Fgithub.com%2Fswastiksagar%2Fsplunklabproject%3B%3BNessus%7CVulnerability%20HOMELAB%7CPython%7C54%7Chttps%3A%2F%2Fgithub.com%2Fswastiksagar%2Fnessuslabproject%3B%3BsFirewall%7CFirewall%20Application%7CPython%7C54%7Chttps%3A%2F%2Fgithub.com%2Fswastiksagar%2Fsfirewall%3B%3BsBlock%7CDNS%20Blocklist%7CTXT%7C80%7Chttps%3A%2F%2Fgithub.com%2Fswastiksagar%2Fsblock%3B%3BResources%7CEverything%20Here%7CTXT%7C1%7Chttps%3A%2F%2Fgithub.com%2Fswastiksagar%2Fresources)
+
 </div>
 <div align="center"> <h2>Connect with Me</h2></div>  
 <div align="center">
@@ -53,5 +49,11 @@ href="https://swastiksagar.live" target="blank">
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=swastiksagar&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
+</div>
+
+<div align="center"><h2>Streaks</h2></div>
+<div align="center">
+  
+![Penguin Streak](https://coolreadme.xyz/api/penguin-card?user=swastiksagar&accent=white&breed=adelie)
 </div>
 
