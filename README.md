@@ -2,7 +2,7 @@
 
 <!-- tiles:start -->
 <a href="https://github.com/swastiksagar?tab=wazuhlabproject"><img src="./cards/build.svg" width="32.5%" alt="Build: 03 homelab" /></a>
-<a href="https://swastiksagar/projects/email-checker"><img src="./cards/brand.svg" width="32.5%" alt="email: free check" /></a>
+<a href="https://swastiksagar/projects/email-checker"><img src="./cards/brand.svg" width="32.5%" alt="Brand: free check" /></a>
 <a href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"><img src="./cards/learn.svg" width="32.5%" alt="Learn: from Scratch" /></a>
 <!-- tiles:end -->
 
