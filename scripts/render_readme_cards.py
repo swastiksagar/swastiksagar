@@ -66,7 +66,7 @@ TILES = [  # the three linked tiles; files are cards/<file>.svg
          body="Check your email.",
          href="https://swastiksagar/projects/email-checker"),
     dict(file="learn", label="Learn", num="like", word="SOC", bg=YELLOW, fg="#111111",
-         body="Teaching everything to everyone.",
+         body="Teaching security operations.",
          href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"),
 ]
 
