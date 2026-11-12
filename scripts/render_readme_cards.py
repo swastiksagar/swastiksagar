@@ -49,9 +49,9 @@ DEMO = os.environ.get("DEMO") == "1"
 PROFILE = {
     "first": "Swastik",
     "last": "Sagar",
-    "eyebrow": "Software engineer",  # shown uppercase
+    "eyebrow": "Cybersecurity Analyst",  # shown uppercase
     "tagline": "I build products people use, write about what I learn, and share the code.",
-    "site": "your-site.com",  # TODO: your website, shown under the tagline
+    "site": "swastiksagar.tech",  # TODO: your website, shown under the tagline
     "portrait": "assets/portrait.jpeg",
     "portrait_mode": "ascii",  # "ascii" | "image" | "none"
     "portrait_crop": (0.24, 0.06, 0.78, 0.74),  # fractions of the photo: l, t, r, b
@@ -67,7 +67,7 @@ TILES = [  # the three linked tiles; files are cards/<file>.svg
          href="https://your-site.com/blog"),
     dict(file="learn", label="Learn", num="00", word="readers", bg=YELLOW, fg="#111111",
          body="TODO: one line on what you teach.",
-         href="https://your-site.com"),
+         href="https://swastiksagar.tech"),
 ]
 
 # Palette, read off the design reference.
