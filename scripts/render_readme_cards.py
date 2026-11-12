@@ -54,20 +54,20 @@ PROFILE = {
     "site": "swastiksagar.tech",  # TODO: your website, shown under the tagline
     "portrait": "assets/portrait.jpeg",
     "portrait_mode": "ascii",  # "ascii" | "image" | "none"
-    "portrait_crop": (0.24, 0.06, 0.78, 0.74),  # fractions of the photo: l, t, r, b
+    "portrait_crop": (0.26, 0.06, 0.78, 0.74),  # fractions of the photo: l, t, r, b
 }
 
 BLUE, RED, YELLOW = "#2f54ff", "#f23d2e", "#fdc612"
 TILES = [  # the three linked tiles; files are cards/<file>.svg
     dict(file="build", label="Build", num="00", word="projects", bg=BLUE, fg="#ffffff",
          body="TODO: one line on what you build.",
-         href="https://github.com/swastiksagar?tab=repositories"),
+         href="https://github.com/swastiksagar?tab=wazuhlabproject"),
     dict(file="brand", label="Write", num="00", word="posts", bg=RED, fg="#ffffff",
          body="TODO: one line on what you write about.",
-         href="https://your-site.com/blog"),
+         href="https://swastiksagar/projects/email-checker"),
     dict(file="learn", label="Learn", num="00", word="readers", bg=YELLOW, fg="#111111",
          body="TODO: one line on what you teach.",
-         href="https://swastiksagar.tech"),
+         href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"),
 ]
 
 # Palette, read off the design reference.
