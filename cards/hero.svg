@@ -5,13 +5,13 @@
 <rect width="880" height="432" rx="26" fill="#f3f3f2"/>
 <rect x="48" y="47" width="8" height="8" rx="1.5" fill="#2f54ff" class="a fade" style="animation-delay:0.00s"/>
 <g class="mo"><circle cx="52" cy="51" r="4" fill="none" stroke="#2f54ff" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;13" dur="2.8s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="1.0s" repeatCount="indefinite"/></circle></g>
-<text x="66" y="56" font-size="12" fill="#6f6f6b" letter-spacing="1.2" xml:space="preserve" class="a fade" style="animation-delay:0.05s"><tspan class="mono">SOFTWARE ENGINEER</tspan></text>
+<text x="66" y="56" font-size="12" fill="#6f6f6b" letter-spacing="1.2" xml:space="preserve" class="a fade" style="animation-delay:0.05s"><tspan class="mono">CYBERSECURITY ANALYST</tspan></text>
 <text x="44" y="186" font-size="112" fill="#111111" letter-spacing="-2" xml:space="preserve" class="a rise" style="animation-delay:0.15s"><tspan class="serif">Swastik</tspan></text>
 <text x="48" y="282" font-size="112" fill="#111111" letter-spacing="-2" xml:space="preserve" class="a rise" style="animation-delay:0.30s"><tspan class="serif i" fill="url(#g)">S</tspan><tspan class="serif i">agar</tspan></text>
 <text x="48" y="331" font-size="20" fill="#3b3b39" xml:space="preserve" class="a rise" style="animation-delay:0.60s"><tspan class="sans">I build products people use, write about</tspan></text>
 <text x="48" y="358" font-size="20" fill="#3b3b39" xml:space="preserve" class="a rise" style="animation-delay:0.68s"><tspan class="sans">what I learn, and share the code.</tspan></text>
-<text x="48" y="392" font-size="14" fill="#111111" xml:space="preserve" class="a fade" style="animation-delay:0.90s"><tspan class="mono">your-site.com</tspan></text>
-<g class="a fade" style="animation-delay:0.90s"><path d="M171 391L179 383M172 383H179V390" fill="none" stroke="#2f54ff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="48" y="392" font-size="14" fill="#111111" xml:space="preserve" class="a fade" style="animation-delay:0.90s"><tspan class="mono">swastiksagar.tech</tspan></text>
+<g class="a fade" style="animation-delay:0.90s"><path d="M205 391L213 383M206 383H213V390" fill="none" stroke="#2f54ff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></g>
 <text x="649.84" y="60.00" font-size="4.6" fill="#5f5f5b" fill-opacity="0.9" textLength="57.96" xml:space="preserve" class="mono a fade" style="animation-delay:0.35s">.,::-=====;:,     .,,</text>
 <text x="636.04" y="64.83" font-size="4.6" fill="#5f5f5b" fill-opacity="0.9" textLength="80.04" xml:space="preserve" class="mono a fade" style="animation-delay:0.37s">.:-+*#%%#%%#%%%%###*=;:..,;-;</text>
 <text x="616.72" y="69.66" font-size="4.6" fill="#5f5f5b" fill-opacity="0.9" textLength="104.88" xml:space="preserve" class="mono a fade" style="animation-delay:0.39s">.   ,;*%%#%%######%###%%###%####+;,;=;</text>
