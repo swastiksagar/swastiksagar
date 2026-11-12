@@ -573,7 +573,7 @@ def main() -> None:
         print(f"cards/{card.name}.svg")
 
     tiles_html = "\n".join(
-        f'<a href="{T["href"]}"><img src="./cards/{T["file"]}.svg" width="32.0%" '
+        f'<a href="{T["href"]}"><img src="./cards/{T["file"]}.svg" width="32.5%" '
         f'alt="{escape(T["label"] + ": " + T["num"] + " " + T["word"])}" /></a>' for T in TILES)
     repos_html = "\n".join(
         f'<a href="https://github.com/{r["name"]}"><img src="./cards/repo-{i + 1}.svg" width="100%" '
