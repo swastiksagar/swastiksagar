@@ -3,7 +3,7 @@
 <!-- tiles:start -->
 <a href="https://github.com/swastiksagar?tab=wazuhlabproject"><img src="./cards/build.svg" width="32.5%" alt="Build: Wazuh lab" /></a>
 <a href="https://swastiksagar/projects/email-checker"><img src="./cards/brand.svg" width="32.5%" alt="Brand: free check" /></a>
-<a href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"><img src="./cards/learn.svg" width="32.5%" alt="Learn: learn SOC" /></a>
+<a href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"><img src="./cards/learn.svg" width="32.5%" alt="Learn: like SOC" /></a>
 <!-- tiles:end -->
 
 <img src="./cards/activity.svg" alt="Contributions per month, with streak and busiest day" width="100%" />
