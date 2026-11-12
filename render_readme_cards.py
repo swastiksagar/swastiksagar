@@ -49,7 +49,7 @@ DEMO = os.environ.get("DEMO") == "1"
 PROFILE = {
     "first": "Swastik",
     "last": "Sagar",
-    "eyebrow": "Software engineer",  # shown uppercase
+    "eyebrow": "Cybersecurity Analyst",  # shown uppercase
     "tagline": "I build products people use, write about what I learn, and share the code.",
     "site": "your-site.com",  # TODO: your website, shown under the tagline
     "portrait": "assets/portrait.jpeg",
