@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 352" width="880" height="352" role="img" aria-label="220 contributions in the last 12 months, 1 day streak">
+<title>220 contributions in the last 12 months, 1 day streak</title>
+<style>.serif{font-family:'Instrument Serif',Georgia, 'Times New Roman', serif}.sans{font-family:'Geist',-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}.mono{font-family:'Geist Mono',ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.i{font-style:italic}.a{animation-duration:.9s;animation-timing-function:cubic-bezier(.2,.7,.2,1);animation-fill-mode:backwards}.fade{animation-name:fade}.rise{animation-name:rise}.grow{animation-name:grow;transform-box:fill-box;transform-origin:50% 100%}.pop{animation-name:pop;transform-box:fill-box;transform-origin:50% 50%}@keyframes fade{from{opacity:0}}@keyframes rise{from{opacity:0;transform:translateY(16px)}}@keyframes grow{from{transform:scaleY(0)}}@keyframes pop{from{opacity:0;transform:scale(.4)}}@media (prefers-reduced-motion:reduce){.a{animation:none!important}.mo{display:none!important}}</style>
+<defs></defs>
+<rect width="880" height="352" rx="26" fill="#f3f3f2"/>
+<text x="40" y="58" font-size="12" fill="#6f6f6b" letter-spacing="1.2" xml:space="preserve" class="a fade" style="animation-delay:2.02s"><tspan class="mono">THE LAST 12 MONTHS ON GITHUB</tspan></text>
+<text x="40" y="112" font-size="56" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.12s"><tspan class="serif">220</tspan><tspan class="serif i"> contributions</tspan></text>
+<rect x="40.0" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:2.37s"/>
+<text x="59.0" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.37s"><tspan class="mono">Dec</tspan></text>
+<rect x="87.5" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:2.44s"/>
+<text x="106.5" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.44s"><tspan class="mono">Jan</tspan></text>
+<rect x="134.9" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:2.51s"/>
+<text x="153.9" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.51s"><tspan class="mono">Feb</tspan></text>
+<rect x="182.4" y="217" width="38" height="75" rx="4" fill="#111111" class="a grow" style="animation-delay:2.58s"/>
+<text x="201.4" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.58s"><tspan class="mono">Mar</tspan></text>
+<rect x="229.8" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:2.65s"/>
+<text x="248.8" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.65s"><tspan class="mono">Apr</tspan></text>
+<rect x="277.3" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:2.72s"/>
+<text x="296.3" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.72s"><tspan class="mono">May</tspan></text>
+<rect x="324.7" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:2.79s"/>
+<text x="343.7" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.79s"><tspan class="mono">Jun</tspan></text>
+<rect x="372.2" y="154" width="38" height="138" rx="4" fill="#111111" class="a grow" style="animation-delay:2.86s"/>
+<text x="391.2" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.86s"><tspan class="mono">Jul</tspan></text>
+<rect x="419.6" y="152" width="38" height="140" rx="4" fill="#2f54ff" class="a grow" style="animation-delay:2.93s"/>
+<text x="438.6" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:2.93s"><tspan class="mono">Aug</tspan></text>
+<text x="438.6" y="143" font-size="11" fill="#2f54ff" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:3.43s"><tspan class="mono">77</tspan></text>
+<rect x="467.1" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:3.00s"/>
+<text x="486.1" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:3.00s"><tspan class="mono">Sep</tspan></text>
+<rect x="514.5" y="287" width="38" height="5" rx="4" fill="#111111" class="a grow" style="animation-delay:3.07s"/>
+<text x="533.5" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:3.07s"><tspan class="mono">Oct</tspan></text>
+<rect x="562.0" y="247" width="38" height="45" rx="4" fill="#c9c9c5" class="a grow" style="animation-delay:3.14s"/>
+<text x="581.0" y="314" font-size="11" fill="#6f6f6b" text-anchor="middle" xml:space="preserve" class="a fade" style="animation-delay:3.14s"><tspan class="mono">Nov</tspan></text>
+<text x="650" y="103" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.52s"><tspan class="serif">1 </tspan><tspan class="serif i">day</tspan></text>
+<text x="650" y="127" font-size="13.5" fill="#6f6f6b" xml:space="preserve" class="a rise" style="animation-delay:2.60s"><tspan class="sans">current streak, longest 6</tspan></text>
+<line x1="650" x2="840" y1="148" y2="148" stroke="#d8d8d4" class="a fade" style="animation-delay:2.62s"/>
+<text x="650" y="195" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.70s"><tspan class="serif">27 </tspan><tspan class="serif" fill="#a4a4a0">/ 347</tspan></text>
+<text x="650" y="219" font-size="13.5" fill="#6f6f6b" xml:space="preserve" class="a rise" style="animation-delay:2.78s"><tspan class="sans">days with a commit</tspan></text>
+<line x1="650" x2="840" y1="240" y2="240" stroke="#d8d8d4" class="a fade" style="animation-delay:2.80s"/>
+<text x="650" y="287" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.88s"><tspan class="serif">34</tspan></text>
+<text x="650" y="311" font-size="13.5" fill="#6f6f6b" xml:space="preserve" class="a rise" style="animation-delay:2.96s"><tspan class="sans">on the busiest day</tspan></text>
+</svg>

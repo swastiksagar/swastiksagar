@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 176" width="880" height="176" role="img" aria-label="swastiksagar/socanalystfromscratch: Free course for those who want to be SOC Analyst ">
+<title>swastiksagar/socanalystfromscratch: Free course for those who want to be SOC Analyst </title>
+<style>.serif{font-family:'Instrument Serif',Georgia, 'Times New Roman', serif}.sans{font-family:'Geist',-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}.mono{font-family:'Geist Mono',ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.i{font-style:italic}.a{animation-duration:.9s;animation-timing-function:cubic-bezier(.2,.7,.2,1);animation-fill-mode:backwards}.fade{animation-name:fade}.rise{animation-name:rise}.grow{animation-name:grow;transform-box:fill-box;transform-origin:50% 100%}.pop{animation-name:pop;transform-box:fill-box;transform-origin:50% 50%}@keyframes fade{from{opacity:0}}@keyframes rise{from{opacity:0;transform:translateY(16px)}}@keyframes grow{from{transform:scaleY(0)}}@keyframes pop{from{opacity:0;transform:scale(.4)}}@media (prefers-reduced-motion:reduce){.a{animation:none!important}.mo{display:none!important}}</style>
+<defs></defs>
+<rect width="880" height="176" rx="26" fill="#f3f3f2" class="a fade" style="animation-delay:3.02s"/>
+<circle cx="46" cy="44" r="4.5" fill="#2f54ff" class="a pop" style="animation-delay:3.12s"/>
+<text x="58" y="48" font-size="12" fill="#6f6f6b" letter-spacing="1.2" xml:space="preserve" class="a fade" style="animation-delay:3.12s"><tspan class="mono">HTML</tspan></text>
+<g class="a fade" style="animation-delay:3.22s"><path d="M824 44L832 36M825 36H832V43" fill="none" stroke="#2f54ff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="40" y="96" font-size="44" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:3.17s"><tspan class="serif">socanalystfromscratch</tspan></text>
+<text x="40" y="128" font-size="15.5" fill="#3b3b39" xml:space="preserve" class="a rise" style="animation-delay:3.32s"><tspan class="sans">Free course for those who want to be SOC Analyst</tspan></text>
+<text x="840" y="100" font-size="30" fill="#111111" text-anchor="end" letter-spacing="-0.3" xml:space="preserve" class="a rise" style="animation-delay:3.32s"><tspan class="serif">2 </tspan><tspan class="serif i">stars</tspan></text>
+<text x="840" y="140" font-size="30" fill="#111111" text-anchor="end" letter-spacing="-0.3" xml:space="preserve" class="a rise" style="animation-delay:3.42s"><tspan class="serif">0 </tspan><tspan class="serif i">forks</tspan></text>
+</svg>
