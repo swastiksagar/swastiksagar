@@ -1,0 +1,64 @@
+name: Refresh README cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install render dependencies
+        run: pip install fonttools pillow
+
+      # If your existing Action already writes data/github.json, keep it and
+      # delete this step. The script also accepts the raw GraphQL response.
+      - name: Refresh contribution data
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          LOGIN: swastiksagar
+        run: |
+          mkdir -p data
+          FROM=$(date -u -d '364 days ago' +%Y-%m-%dT00:00:00Z)
+          TO=$(date -u +%Y-%m-%dT23:59:59Z)
+          gh api graphql -f login="$LOGIN" -f from="$FROM" -f to="$TO" -f query='
+            query($login:String!,$from:DateTime!,$to:DateTime!){
+              user(login:$login){
+                contributionsCollection(from:$from,to:$to){
+                  contributionCalendar{weeks{contributionDays{date contributionCount}}}
+                }
+                pinnedItems(first:4,types:REPOSITORY){
+                  nodes{... on Repository{
+                    nameWithOwner description stargazerCount forkCount
+                    primaryLanguage{name}
+                  }}
+                }
+              }
+            }' > data/raw.json
+          jq '{days:[.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[]
+                     | {date, count: .contributionCount}],
+               repos:[.data.user.pinnedItems.nodes[]
+                     | {name: .nameWithOwner, description, language: .primaryLanguage.name,
+                        stars: .stargazerCount, forks: .forkCount}]}' \
+             data/raw.json > data/github.json
+          rm data/raw.json
+
+      - name: Render README cards (hero, tiles, activity, repos, brand graph)
+        run: python scripts/render_readme_cards.py
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards data README.md
+          git diff --cached --quiet || (git commit -m "chore: refresh README cards" && git push)
