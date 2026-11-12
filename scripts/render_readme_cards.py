@@ -65,7 +65,7 @@ TILES = [  # the three linked tiles; files are cards/<file>.svg
     dict(file="brand", label="Brand", num="free", word="check", bg=RED, fg="#ffffff",
          body="Check your email.",
          href="https://swastiksagar/projects/email-checker"),
-    dict(file="learn", label="Learn", num="from", word="Scratch", bg=YELLOW, fg="#111111",
+    dict(file="learn", label="Learn", num="learn", word="SOC", bg=YELLOW, fg="#111111",
          body="Teaching everything to everyone.",
          href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"),
 ]
