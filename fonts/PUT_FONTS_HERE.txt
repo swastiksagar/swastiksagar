@@ -1,0 +1,6 @@
+Add these four files to this folder (then delete this note):
+  serif-400.ttf         (Instrument Serif Regular)
+  serif-400-italic.ttf  (Instrument Serif Italic)
+  sans-400.ttf          (Geist Regular)
+  mono-400.ttf          (Geist Mono Regular)
+Free from fonts.google.com. .woff, .woff2 and .otf also work.
