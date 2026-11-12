@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 293 222" width="293" height="222" role="img" aria-label="Build: 00 projects. TODO: one line on what you build.">
-<title>Build: 00 projects. TODO: one line on what you build.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 293 222" width="293" height="222" role="img" aria-label="Build: 03 homelab. The perfect Wazuh Homelab.">
+<title>Build: 03 homelab. The perfect Wazuh Homelab.</title>
 <style>.serif{font-family:'Instrument Serif',Georgia, 'Times New Roman', serif}.sans{font-family:'Geist',-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}.mono{font-family:'Geist Mono',ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.i{font-style:italic}.a{animation-duration:.9s;animation-timing-function:cubic-bezier(.2,.7,.2,1);animation-fill-mode:backwards}.fade{animation-name:fade}.rise{animation-name:rise}.grow{animation-name:grow;transform-box:fill-box;transform-origin:50% 100%}.pop{animation-name:pop;transform-box:fill-box;transform-origin:50% 50%}@keyframes fade{from{opacity:0}}@keyframes rise{from{opacity:0;transform:translateY(16px)}}@keyframes grow{from{transform:scaleY(0)}}@keyframes pop{from{opacity:0;transform:scale(.4)}}@media (prefers-reduced-motion:reduce){.a{animation:none!important}.mo{display:none!important}}</style>
 <defs><clipPath id="k"><rect width="293" height="222" rx="22"/></clipPath><linearGradient id="s" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
 <rect width="293" height="222" rx="22" fill="#2f54ff" class="a fade" style="animation-delay:1.10s"/>
@@ -7,7 +7,6 @@
 <g class="mo"><g clip-path="url(#k)"><rect x="-160" y="-30" width="50" height="300" transform="skewX(-18)" fill="url(#s)" opacity=".3"><animate attributeName="x" values="-160;360;360" keyTimes="0;.3;1" dur="8s" begin="2.3s" repeatCount="indefinite"/></rect></g></g>
 <text x="24" y="39" font-size="12" fill="#ffffff" letter-spacing="1.4" xml:space="preserve" class="a rise" style="animation-delay:1.20s"><tspan class="mono">BUILD</tspan></text>
 <g class="a rise" style="animation-delay:1.20s"><path d="M262 35H272M268 31L272 35L268 39" fill="none" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></g>
-<text x="24" y="112" font-size="50" fill="#ffffff" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:1.32s"><tspan class="serif">00 </tspan><tspan class="serif i">projects</tspan></text>
-<text x="24" y="150" font-size="15.5" fill="#ffffff" xml:space="preserve" class="a rise" style="animation-delay:1.44s"><tspan class="sans">TODO: one line on what you</tspan></text>
-<text x="24" y="171" font-size="15.5" fill="#ffffff" xml:space="preserve" class="a rise" style="animation-delay:1.50s"><tspan class="sans">build.</tspan></text>
+<text x="24" y="112" font-size="50" fill="#ffffff" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:1.32s"><tspan class="serif">03 </tspan><tspan class="serif i">homelab</tspan></text>
+<text x="24" y="150" font-size="15.5" fill="#ffffff" xml:space="preserve" class="a rise" style="animation-delay:1.44s"><tspan class="sans">The perfect Wazuh Homelab.</tspan></text>
 </svg>

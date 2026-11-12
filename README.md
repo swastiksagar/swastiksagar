@@ -1,9 +1,9 @@
 <img src="./cards/hero.svg" alt="Swastik Sagar" width="100%" />
 
 <!-- tiles:start -->
-<a href="https://github.com/swastiksagar?tab=wazuhlabproject"><img src="./cards/build.svg" width="32.5%" alt="Build: 00 projects" /></a>
-<a href="https://swastiksagar/projects/email-checker"><img src="./cards/brand.svg" width="32.5%" alt="Write: 00 posts" /></a>
-<a href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"><img src="./cards/learn.svg" width="32.5%" alt="Learn: 00 readers" /></a>
+<a href="https://github.com/swastiksagar?tab=wazuhlabproject"><img src="./cards/build.svg" width="32.5%" alt="Build: 03 homelab" /></a>
+<a href="https://swastiksagar/projects/email-checker"><img src="./cards/brand.svg" width="32.5%" alt="email: free check" /></a>
+<a href="https://swastiksagar.tech/projects/soc-analyst-from-scratch"><img src="./cards/learn.svg" width="32.5%" alt="Learn: SOC from Scratch" /></a>
 <!-- tiles:end -->
 
 <img src="./cards/activity.svg" alt="Contributions per month, with streak and busiest day" width="100%" />
