@@ -54,7 +54,7 @@ PROFILE = {
     "site": "swastiksagar.tech",  # TODO: your website, shown under the tagline
     "portrait": "assets/portrait.jpeg",
     "portrait_mode": "ascii",  # "ascii" | "image" | "none"
-    "portrait_crop": (0.24, 0.06, 0.78, 0.74),  # fractions of the photo: l, t, r, b
+    "portrait_crop": (0.22, 0.06, 0.78, 0.74),  # fractions of the photo: l, t, r, b
 }
 
 BLUE, RED, YELLOW = "#2f54ff", "#f23d2e", "#fdc612"
@@ -62,7 +62,7 @@ TILES = [  # the three linked tiles; files are cards/<file>.svg
     dict(file="build", label="Build", num="03", word="homelab", bg=BLUE, fg="#ffffff",
          body="The perfect Wazuh Homelab.",
          href="https://github.com/swastiksagar?tab=wazuhlabproject"),
-    dict(file="brand", label="email", num="free", word="check", bg=RED, fg="#ffffff",
+    dict(file="brand", label="Brand", num="free", word="check", bg=RED, fg="#ffffff",
          body="Check your email.",
          href="https://swastiksagar/projects/email-checker"),
     dict(file="learn", label="Learn", num="from", word="Scratch", bg=YELLOW, fg="#111111",
