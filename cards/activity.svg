@@ -33,7 +33,7 @@
 <text x="650" y="103" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.52s"><tspan class="serif">1 </tspan><tspan class="serif i">day</tspan></text>
 <text x="650" y="127" font-size="13.5" fill="#6f6f6b" xml:space="preserve" class="a rise" style="animation-delay:2.60s"><tspan class="sans">current streak, longest 6</tspan></text>
 <line x1="650" x2="840" y1="148" y2="148" stroke="#d8d8d4" class="a fade" style="animation-delay:2.62s"/>
-<text x="650" y="195" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.70s"><tspan class="serif">27 </tspan><tspan class="serif" fill="#a4a4a0">/ 347</tspan></text>
+<text x="650" y="195" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.70s"><tspan class="serif">27 </tspan><tspan class="serif" fill="#a4a4a0">/ 348</tspan></text>
 <text x="650" y="219" font-size="13.5" fill="#6f6f6b" xml:space="preserve" class="a rise" style="animation-delay:2.78s"><tspan class="sans">days with a commit</tspan></text>
 <line x1="650" x2="840" y1="240" y2="240" stroke="#d8d8d4" class="a fade" style="animation-delay:2.80s"/>
 <text x="650" y="287" font-size="42" fill="#111111" letter-spacing="-0.5" xml:space="preserve" class="a rise" style="animation-delay:2.88s"><tspan class="serif">44</tspan></text>
