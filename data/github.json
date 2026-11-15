@@ -1458,7 +1458,7 @@
     },
     {
       "date": "2026-11-15",
-      "count": 2
+      "count": 3
     }
   ],
   "repos": [
@@ -1467,13 +1467,6 @@
       "description": "Free course for those who want to be SOC Analyst ",
       "language": "HTML",
       "stars": 2,
-      "forks": 0
-    },
-    {
-      "name": "swastiksagar/malwareinsight",
-      "description": "Malware Analysis Application ",
-      "language": null,
-      "stars": 4,
       "forks": 0
     }
   ]
