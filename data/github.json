@@ -1468,6 +1468,13 @@
       "language": "HTML",
       "stars": 2,
       "forks": 0
+    },
+    {
+      "name": "swastiksagar/malwareinsight",
+      "description": "Malware Analysis Application ",
+      "language": null,
+      "stars": 4,
+      "forks": 0
     }
   ]
 }

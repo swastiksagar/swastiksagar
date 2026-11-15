@@ -10,6 +10,7 @@
 
 <!-- repos:start -->
 <a href="https://github.com/swastiksagar/socanalystfromscratch"><img src="./cards/repo-1.svg" width="100%" alt="swastiksagar/socanalystfromscratch" /></a>
+<a href="https://github.com/swastiksagar/malwareinsight"><img src="./cards/repo-2.svg" width="100%" alt="swastiksagar/malwareinsight" /></a>
 <!-- repos:end -->
 
 <img src="./cards/graph.svg" alt="Contribution graph for the last year" width="100%" />
